@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "title": "New Billboard!",
+      "description": "Say goodbye to the scrolling frame!!!",
+      "imageId": 11376117882
+    },
+    {
+      "title": "IT MOVES!",
+      "description": "Scrolls through every news page!",
+      "imageId": 11376118736
+    },
+    {
+      "title": "VIA HTTPS!",
+      "description": "All this news is coming from GitHub!",
+      "imageId": 10903543564
+    },
+      {
+      "title": "DOES ROAD SHI BLOCKS WORK",
+      "description": "stupid roadblock david can suck it",
+      "imageId": 11376118736
+    }
+  ]
+}
